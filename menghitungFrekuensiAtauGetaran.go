@@ -6,7 +6,7 @@ import (
 
 func main() {
 	// Nilai periode yang sudah tersedia
-	periode := 0.5 // nilai periode yang Anda inginkan (dalam detik)
+	periode := 0.5 // nilai periode yang diinginkan (dalam detik)
 
 	// Hitung frekuensi
 	frekuensi := 1 / periode
